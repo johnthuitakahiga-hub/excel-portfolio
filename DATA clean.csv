@@ -1,0 +1,31 @@
+﻿Order_ID,Product,County,Sales_KES,Quantity,Date,Customer_Name, County_Clean,Customer_Clean
+ORD-1001,Soda 500ml,Nairobi,120,2,10/1/2026, Amina ,Nairobi,Amina
+ORD-1002,Bread,NAIROBI,180,1,10/2/2026,BRIAN OTIENO,Nairobi,Brian Otieno
+ORD-1003,Milk 1L,nairobi ,220,2,10/3/2026,cynthia muli,Nairobi,Cynthia Muli
+ORD-1004,Soda 500ml,Kisumu,120,3,10/4/2026, David Kim ,Kisumu,David Kim
+ORD-1005,Bread,Mombasa,180,2,10/5/2026,JOHN,Mombasa,John
+ORD-1006,Milk 1L,Nairobi,220,1,10/6/2026,Amina,Nairobi,Amina
+ORD-1007,Unga 2kg,Kiambu,350,1,10/7/2026,brian otieno,Kiambu,Brian Otieno
+ORD-1008,Cooking Oil,KIAMBU ,480,1,10/8/2026,CYNTHIA MULI,Kiambu,Cynthia Muli
+ORD-1009,Soda 500ml,Kisumu,120,5,10/9/2026,David Kim,Kisumu,David Kim
+ORD-1010,Bread,mombasa,180,2,10/10/2026,john ,Mombasa,John
+ORD-1011,Milk 1L,Nairobi,220,1,10/11/2026,Amina ,Nairobi,Amina
+ORD-1012,Unga 2kg,Nairobi,350,2,10/12/2026,Brian Otieno,Nairobi,Brian Otieno
+ORD-1013,Sugar 1kg,Kisumu,200,1,10/13/2026,Cynthia Muli,Kisumu,Cynthia Muli
+ORD-1014,Soda 500ml,NAIROBI,120,2,10/14/2026,David Kim,Nairobi,David Kim
+ORD-1015,Bread,Kiambu,180,3,10/15/2026,John,Kiambu,John
+ORD-1016,Milk 1L,Mombasa,220,2,10/16/2026,Amina,Mombasa,Amina
+ORD-1017,Unga 2kg,Nairobi,350,1,10/17/2026,Brian Otieno,Nairobi,Brian Otieno
+ORD-1018,Cooking Oil,Kisumu,480,2,10/18/2026,Cynthia Muli,Kisumu,Cynthia Muli
+ORD-1019,Sugar 1kg,Kiambu,200,3,10/19/2026,David Kim,Kiambu,David Kim
+ORD-1020,Soda 500ml,Nairobi ,120,2,10/20/2026,John,Nairobi,John
+ORD-1021,Bread,NAIROBI,180,1,10/1/2026,Amina,Nairobi,Amina
+ORD-1022,Milk 1L,Kisumu,220,2,10/2/2026,Brian,Kisumu,Brian
+ORD-1023,Unga 2kg,Mombasa,350,1,10/3/2026,Cynthia,Mombasa,Cynthia
+ORD-1024,Cooking Oil,Nairobi,480,1,10/4/2026,David,Nairobi,David
+ORD-1025,Sugar 1kg,Kiambu,200,2,10/5/2026,John,Kiambu,John
+ORD-1026,Soda 500ml,Kisumu,120,3,10/6/2026,Amina,Kisumu,Amina
+ORD-1027,Bread,mombasa ,180,1,10/7/2026,Brian,Mombasa,Brian
+ORD-1028,Milk 1L,Nairobi,220,1,1/1/1900,Cynthia,Nairobi,Cynthia
+ORD-1029,Unga 2kg,NAIROBI ,350,2,10/9/2026,David,Nairobi,David
+ORD-1030,Cooking Oil,Kisumu,480,1,10/10/2026,John,Kisumu,John
