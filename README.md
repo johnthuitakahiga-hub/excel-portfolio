@@ -1,21 +1,24 @@
+# Excel Data Cleaning Portfolio
 
-# Excel Portfolio - John
-
-Welcome to my Excel data cleaning & analysis portfolio.
-
-### Project 1: Data Cleaning Project
+## Project 1: Raw Data Cleaning
 **File:** DATA clean.csv
+
+**Problem:** Raw data ilikuwa na duplicates, blanks, wrong dates, na extra spaces.
+
 **What I did:**
-- Removed duplicates & blanks
-- Fixed date formats & text errors
-- Used VLOOKUP, IF, TRIM, TEXT functions
-- Created Pivot Tables & Charts
+- Removed duplicates using Remove Duplicates
+- Removed blank rows
+- Fixed date formats (DD/MM/YYYY)
+- Used TRIM to remove extra spaces
+- Used PROPER to fix names (john -> John)
+- Standardized columns for analysis
 
-**Tools:** Microsoft Excel, Data Cleaning, Pivot Tables
+**Tools Used:** Microsoft Excel - TRIM, PROPER, TEXT, Remove Duplicates, Filters
 
-### Skills
-Excel | Data Cleaning | VLOOKUP | Pivot Tables | Charts | Reporting
+**Result:** Clean, ready-to-use dataset with 100% accuracy for reporting.
 
-### Contact
-GitHub: johnthuitakahiga-hub
-Open to freelance & full-time roles.
+## Skills
+Excel Data Cleaning | Data Standardization | Quality Check
+
+## Next Project
+Planning to add Pivot Table summary from this cleaned data.
